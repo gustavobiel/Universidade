@@ -11,7 +11,7 @@ h1{
     color: blueviolet;
     
 }
-h2{
+h2#curso{
     text-align: center;
     border: 4px double yellow;
     background-color: blueviolet;
